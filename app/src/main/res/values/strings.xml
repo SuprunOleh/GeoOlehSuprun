@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GeoOlehSuprun</string>
+    <string name="my_location">My location</string>
+    <string name="enabled_gps">Enabled GPS:</string>
+    <string name="info_gps">Info GPS:</string>
+    <string name="info_net">Info NET:</string>
+    <string name="enabled_network">Enabled NETWORK:</string>
+    <string name="map">Map</string>
+    <string name="rrr">Enabled GPS:</string>
+</resources>
